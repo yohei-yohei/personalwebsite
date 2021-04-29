@@ -1,4 +1,4 @@
-import logo from './yoheisato.jpg';
+import logo from './yoheisato.png';
 import logo2 from './iclelandfall2540.jpg';
 import logo3 from './s3.png';
 import './App.css';
