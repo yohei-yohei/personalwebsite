@@ -1,6 +1,6 @@
 import logo from './yoheisato.png';
 import logo2 from './iclelandfall2540.jpg';
-import logo3 from './s3.png';
+import logo3 from './b080.jpg';
 import './App.css';
 import { Grid } from '@material-ui/core';
 import GitHubIcon from '@material-ui/icons/GitHub';
@@ -57,8 +57,9 @@ function App() {
       About Yohei Sato 
       </p> 
   <p style={styleObj2}>
+  I have a degree in Mathematics and Computer Science.<br/>
 I've been working in the AWS technical support team for a year and half.<br/>
-I have a strong perssion toward S3 and IAM services in AWS.
+I have a strong passion for the S3 and IAM AWS services.
     </p> 
     </Container>
         </header>
