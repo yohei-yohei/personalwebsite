@@ -59,7 +59,13 @@ function App() {
   <p style={styleObj2}>
   I have a degree in Mathematics and Computer Science.<br/>
 I've been working in the AWS technical support team for a year and half.<br/>
-I have a strong passion for the S3 and IAM AWS services.
+I have a strong passion for the S3 and IAM AWS services.<br/>
+
+You can check my resume in the following link. <br/>
+(Using AWS S3 Static Website Hosting)<br/>
+<a target="_blank" href="http://s3.main.bucket.corssaccount2.s3-website-ap-northeast-1.amazonaws.com/">My resume</a>
+
+
     </p> 
     </Container>
         </header>
